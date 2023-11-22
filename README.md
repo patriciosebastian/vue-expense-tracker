@@ -4,8 +4,8 @@ Made strictly for learning and practicing Vue 3.2 and Composition API.
 
 ## Other
 
-Vue Toastification for success and error notification messages. 
-Local storage for persisent data
+- Vue Toastification for success and error notification messages. 
+- Local storage for persisent data
 
 ## App screenshot
 
