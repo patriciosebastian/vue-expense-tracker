@@ -4,8 +4,13 @@ Made strictly for learning and practicing Vue 3.2 and Composition API.
 
 ## Other
 
-Vue Toastification for success and error notification messages.
+Vue Toastification for success and error notification messages. 
 Local storage for persisent data
+
+## App screenshot
+
+![Screen Shot 2023-11-22 at 11 32 17 AM](https://github.com/patriciosebastian/vue-expense-tracker/assets/72120357/68bc9e8b-2bd5-42e5-9201-c882348bbdd1)
+
 
 ## Recommended IDE Setup
 
