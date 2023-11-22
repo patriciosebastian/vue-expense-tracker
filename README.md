@@ -1,6 +1,11 @@
 # vue-expense-tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+Made strictly for learning and practicing Vue 3.2 and Composition API.
+
+## Other
+
+Vue Toastification for success and error notification messages.
+Local storage for persisent data
 
 ## Recommended IDE Setup
 
